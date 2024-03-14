@@ -8,5 +8,7 @@ Built from scratch with the help of the best Primeagen :)
 
 ##### Run Netrw Listing
 ```
-<Space>pv
+<Space>pf # File search:wq
+<Space>ps # Search for word in files
+<Ctrl> + <p> # Repository search
 ```
