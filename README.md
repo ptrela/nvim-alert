@@ -25,3 +25,12 @@ Built from scratch with the help of the best Primeagen :)
 :so # Reload file
 :PackerSync # opens Packer + Updates plugins
 ```
+
+#### Harpoon Commands
+
+Harpoon is helping with jumping between multiple tabs
+
+```
+<Space>a # Adds tab to harpoon
+<Ctrl>e # Opens quick menu
+```
