@@ -34,3 +34,8 @@ Harpoon is helping with jumping between multiple tabs
 <Space>a # Adds tab to harpoon
 <Ctrl>e # Opens quick menu
 ```
+
+Packet Manager
+```
+:Mason
+```
