@@ -36,9 +36,18 @@ Harpoon is helping with jumping between multiple tabs
 <Ctrl>e # Opens quick menu
 ```
 
-Useful commands
+### Useful commands
 ```
 :Mason
 :MasonInstall plugin_name
 :Copilot setup
+```
+
+### Vim commands
+```
+gg - first line
+GG - last line
+#G - move cursor to line number (# is line number)
++10 - move cursor 10 lines down
+-10 - move cursor 10 lines up
 ```
