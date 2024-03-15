@@ -16,6 +16,7 @@ Built from scratch with the help of the best Primeagen :)
 ```
 <Space>pf # File search:wq
 <Space>ps # Search for word in files
+<Space>pb # Find buffers
 <Ctrl> + <p> # Repository search
 ```
 
@@ -35,7 +36,9 @@ Harpoon is helping with jumping between multiple tabs
 <Ctrl>e # Opens quick menu
 ```
 
-Packet Manager
+Useful commands
 ```
 :Mason
+:MasonInstall plugin_name
+:Copilot setup
 ```
