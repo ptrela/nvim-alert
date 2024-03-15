@@ -36,14 +36,19 @@ Harpoon is helping with jumping between multiple tabs
 <Ctrl>e # Opens quick menu
 ```
 
-### Useful commands
+#### Terminal
+```
+<Ctrl> + \ # Open/close terminal
+```
+
+#### Useful commands
 ```
 :Mason
 :MasonInstall plugin_name
 :Copilot setup
 ```
 
-### Vim commands
+#### Vim commands
 ```
 gg - first line
 GG - last line
