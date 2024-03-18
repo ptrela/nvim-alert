@@ -39,6 +39,7 @@ Harpoon is helping with jumping between multiple tabs
 #### Terminal
 ```
 <Ctrl> + \ # Open/close terminal
+:2ToggleTerm # opens second terminal
 ```
 
 #### Useful commands
